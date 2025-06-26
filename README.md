@@ -14,8 +14,10 @@ Predicts diabetes using Logistic Regression.
 
 Track someone's location using their IP address.
 
-- PhoneX ()
+- PhoneX (https://github.com/TheLogeek/PhoneX)
 
-  -Gather info on a phone number (Geolocation, ISP carrier),
+  -Gather info on a phone number (Geolocation, ISP carrier).
 
-  -Generate random valid phone numbers for multiple countries
+  -Generate random valid phone numbers for multiple countries.
+   
+  -Check if a phone number is valid or not.
