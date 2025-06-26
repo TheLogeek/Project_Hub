@@ -33,3 +33,15 @@ Predicts diabetes using Logistic Regression.
 - TendoPain (https://github.com/TheLogeek/TendoPain)
 
    A simple and basic cli tool for performing ddos attacks and also for getting up address of a website.
+
+- Keylogger (https://github.com/TheLogeek/Keylogger)
+
+   Basic keylogger program.
+
+- QuadPro ()
+
+   Solve quadratic equations.
+
+- GasGuru ()
+
+   Solve Gas laws based questions in chemistry.
