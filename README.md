@@ -16,8 +16,12 @@ Track someone's location using their IP address.
 
 - PhoneX (https://github.com/TheLogeek/PhoneX)
 
-  -Gather info on a phone number (Geolocation, ISP carrier).
+  -Gather info on a phone number (Geolocation, ISP/carrier).
 
   -Generate random valid phone numbers for multiple countries.
    
   -Check if a phone number is valid or not.
+
+- TendoPain (https://github.com/TheLogeek/TendoPain)
+
+A simple and basic cli tool for performing ddos attacks and also for getting up address of a website 
