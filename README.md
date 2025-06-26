@@ -10,11 +10,11 @@ Predicts diabetes using Logistic Regression.
 
 # 🖥️Software Development
 
-- Ip Tracker (https://github.com/TheLogeek/Ip-tracker)
+**- Ip Tracker** (https://github.com/TheLogeek/Ip-tracker)
 
   Track someone's location using their IP address.
 
-- PhoneX (https://github.com/TheLogeek/PhoneX)
+**- PhoneX** (https://github.com/TheLogeek/PhoneX)
 
   -Gather info on a phone number (Geolocation, ISP/carrier).
 
@@ -22,26 +22,26 @@ Predicts diabetes using Logistic Regression.
    
   -Check if a phone number is valid or not.
 
-- BruteMailer (https://github.com/TheLogeek/BruteMailer)
+**- BruteMailer** (https://github.com/TheLogeek/BruteMailer)
   
    A program for performing bruteforce attacks on an email account.
 
-- WifiHacker (https://github.com/TheLogeek/WiFi-Hacker)
+**- WifiHacker** (https://github.com/TheLogeek/WiFi-Hacker)
 
    A wifi bruteforce program that works by attempting commonly used passwords on a particular WiFi said in an attempt to get the password.
 
-- TendoPain (https://github.com/TheLogeek/TendoPain)
+**- TendoPain** (https://github.com/TheLogeek/TendoPain)
 
    A simple and basic cli tool for performing ddos attacks and also for getting up address of a website.
 
-- Keylogger (https://github.com/TheLogeek/Keylogger)
+**- Keylogger** (https://github.com/TheLogeek/Keylogger)
 
    Basic keylogger program.
 
-- QuadPro (https://github.com/TheLogeek/QuadPro)
+**- QuadPro** (https://github.com/TheLogeek/QuadPro)
 
    Solve quadratic equations.
 
-- GasGuru (https://github.com/TheLogeek/GasGuru)
+**- GasGuru** (https://github.com/TheLogeek/GasGuru)
 
    Solve Gas laws based questions in chemistry.
