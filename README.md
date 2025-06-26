@@ -44,4 +44,4 @@ Predicts diabetes using Logistic Regression.
 
 **- GasGuru** (https://github.com/TheLogeek/GasGuru)
 
-   Solve Gas laws based questions in chemistry.
+   Solve Gas laws based questions from chemistry.
