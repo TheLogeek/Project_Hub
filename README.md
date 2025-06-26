@@ -4,6 +4,6 @@
 
 **Machine Learning projects**
 
-- Diabetes Prediction System ()
+- Diabetes Prediction System (https://github.com/TheLogeek/Diabetes-Prediction)
 
 Predicts diabetes using Logistic Regression.
