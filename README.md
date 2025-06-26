@@ -38,10 +38,10 @@ Predicts diabetes using Logistic Regression.
 
    Basic keylogger program.
 
-- QuadPro ()
+- QuadPro (https://github.com/TheLogeek/QuadPro)
 
    Solve quadratic equations.
 
-- GasGuru ()
+- GasGuru (https://github.com/TheLogeek/GasGuru)
 
    Solve Gas laws based questions in chemistry.
