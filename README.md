@@ -4,7 +4,7 @@
 
 # 🧠Machine Learning
 
-**- Diabetes Prediction System** (https://github.com/TheLogeek/Diabetes-Prediction)
+- **Diabetes Prediction System** (https://github.com/TheLogeek/Diabetes-Prediction)
 
 Predicts diabetes using Logistic Regression.
 
