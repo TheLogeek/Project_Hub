@@ -22,7 +22,7 @@ Predicts diabetes using Logistic Regression.
    
   -Check if a phone number is valid or not.
 
-- BruteMailer ()
+- BruteMailer (https://github.com/TheLogeek/BruteMailer)
   
    A program for performing bruteforce attacks on an email account.
 
