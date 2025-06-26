@@ -8,7 +8,7 @@
 
 Predicts diabetes using Logistic Regression.
 
-#🖥️Software Development
+# 🖥️Software Development
 
 - Ip Tracker (https://github.com/TheLogeek/Ip-tracker)
 
