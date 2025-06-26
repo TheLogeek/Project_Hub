@@ -10,6 +10,6 @@ Predicts diabetes using Logistic Regression.
 
 **🖥️Software Development**
 
-- Ip Tracker()
+- Ip Tracker(https://github.com/TheLogeek/Ip-tracker)
 
 Track someone's location using their IP address
