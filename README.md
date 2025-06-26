@@ -12,7 +12,7 @@ Predicts diabetes using Logistic Regression.
 
 - Ip Tracker(https://github.com/TheLogeek/Ip-tracker)
 
-Track someone's location using their IP address.
+  Track someone's location using their IP address.
 
 - PhoneX (https://github.com/TheLogeek/PhoneX)
 
@@ -22,6 +22,10 @@ Track someone's location using their IP address.
    
   -Check if a phone number is valid or not.
 
+- BruteMailer ()
+  
+   A program for performing bruteforce attacks on an email account.
+
 - TendoPain (https://github.com/TheLogeek/TendoPain)
 
-A simple and basic cli tool for performing ddos attacks and also for getting up address of a website 
+   A simple and basic cli tool for performing ddos attacks and also for getting up address of a website.
