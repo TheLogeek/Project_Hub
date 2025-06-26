@@ -4,11 +4,11 @@
 
 # 🧠Machine Learning projects
 
-- Diabetes Prediction System (https://github.com/TheLogeek/Diabetes-Prediction)
+**- Diabetes Prediction System** (https://github.com/TheLogeek/Diabetes-Prediction)
 
 Predicts diabetes using Logistic Regression.
 
-**🖥️Software Development**
+#🖥️Software Development
 
 - Ip Tracker (https://github.com/TheLogeek/Ip-tracker)
 
