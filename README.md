@@ -12,4 +12,10 @@ Predicts diabetes using Logistic Regression.
 
 - Ip Tracker(https://github.com/TheLogeek/Ip-tracker)
 
-Track someone's location using their IP address
+Track someone's location using their IP address.
+
+- PhoneX ()
+
+  -Gather info on a phone number (Geolocation, ISP carrier),
+
+  -Generate random valid phone numbers for multiple countries
