@@ -13,6 +13,11 @@
 
 Predicts diabetes using Logistic Regression.
 
+- **Iris plant prediction**
+(https://github.com/TheLogeek/Iris-species-prediction)
+  
+ Iris species prediction based on its properties.
+
 # 🖥️Software Development
 
 - **Ip Tracker** (https://github.com/TheLogeek/Ip-tracker)
