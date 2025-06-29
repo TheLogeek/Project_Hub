@@ -11,7 +11,7 @@
 
 - **Diabetes Prediction System** (https://github.com/TheLogeek/Diabetes-Prediction)
 
-Predicts diabetes using Logistic Regression.
+ Predicts diabetes using Logistic Regression.
 
 - **Iris plant prediction**
 (https://github.com/TheLogeek/Iris-species-prediction)
