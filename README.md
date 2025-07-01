@@ -4,6 +4,11 @@
 
 # 🧠Machine Learning
 
+- **Movie Review Sentiment Analysis**
+(https://github.com/TheLogeek/Movie-Review-Sentiment-Analysis)
+
+  Classifies movie reviews into positive and negative using support vector machine.
+
 - **Students' scores prediction** (https://github.com/TheLogeek/Students-scores-prediction)
 
   Predicts students scores using xgboost.
