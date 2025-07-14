@@ -1,6 +1,6 @@
 # Welcome to my Project Hub
 
-**This repository indicates my personal projects categorized by field. Click on any project to view the code and details.**
+**This repository indicates my personal projects categorized by field with links to their respective repositories.**
 
 # 🧠Machine Learning
 
