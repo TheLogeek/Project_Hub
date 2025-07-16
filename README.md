@@ -47,7 +47,7 @@
 
 - **TendoPain** (https://github.com/TheLogeek/TendoPain)
 
-   A simple and basic cli tool for performing ddos attacks and also for getting up address of a website.
+   A simple and basic cli tool for performing ddos attacks and also for getting ip address of a website.
 
 - **Keylogger** (https://github.com/TheLogeek/Keylogger)
 
