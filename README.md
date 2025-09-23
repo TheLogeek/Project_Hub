@@ -4,6 +4,10 @@
 
 # 🧠Machine Learning
 
+- **Breast Cancer Diagnosis Prediction** (https://github.com/TheLogeek/Breast-Cancer-Prediction)
+
+  Classifies patients into benign or malignant stage based on some input parameters using svm classifier.
+
 - **Movie Review Sentiment Analysis**
 (https://github.com/TheLogeek/Movie-Review-Sentiment-Analysis)
 
