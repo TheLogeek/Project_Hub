@@ -13,11 +13,6 @@
 
   Classifies movie reviews into positive and negative using support vector machine.
 
-- **Students' scores prediction** (https://github.com/TheLogeek/Students-scores-prediction)
-
-  Predicts students scores using xgboost.
-
-
 - **Diabetes Prediction System** (https://github.com/TheLogeek/Diabetes-Prediction)
 
    Predicts diabetes using Logistic Regression.
