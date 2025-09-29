@@ -2,7 +2,7 @@
 
 **This repository indicates my personal projects categorized by field with links to their respective repositories.**
 
-# 🧠Machine Learning
+# 🧠Data Science & Machine Learning 
 
 - **Breast Cancer Diagnosis Prediction** (https://github.com/TheLogeek/Breast-Cancer-Prediction)
 
