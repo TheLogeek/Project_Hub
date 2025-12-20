@@ -27,7 +27,7 @@
 - **LogeekMind**
   (https://github.com/TheLogeek/LogeekMind)
  
- An AI academic assistant for students and lifelong learners.
+   An AI academic assistant for students and lifelong learners.
 
 - **Chat Room**
  (https://github.com/TheLogeek/Chat-Room)
