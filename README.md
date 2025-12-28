@@ -4,6 +4,11 @@
 
 # 🧠Data Science & Machine Learning 
 
+- **AI Basketball Matches Predictions**
+(https://github.com/TheLogeek/AI-Bet-Analyzer)
+
+The AI Bet Analyzer is a streamlit based web application designed to provide daily over/under predictions for basketball matches across USA leagues.
+
 - **Breast Cancer Diagnosis Prediction** (https://github.com/TheLogeek/Breast-Cancer-Prediction)
 
   Classifies patients into benign or malignant stage based on some input parameters using svm classifier.
