@@ -7,7 +7,7 @@
 - **AI Basketball Matches Predictions**
 (https://github.com/TheLogeek/AI-Bet-Analyzer)
 
-The AI Bet Analyzer is a streamlit based web application designed to provide daily over/under predictions for basketball matches across USA leagues.
+  The AI Bet Analyzer is a streamlit based web application designed to provide daily over/under predictions for basketball matches across USA leagues.
 
 - **Breast Cancer Diagnosis Prediction** (https://github.com/TheLogeek/Breast-Cancer-Prediction)
 
