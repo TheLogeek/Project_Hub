@@ -51,17 +51,9 @@
    
   -Check if a phone number is valid or not.
 
-- **BruteMailer** (https://github.com/TheLogeek/BruteMailer)
-  
-   A program for performing dictionary attacks on an email account.
-
 - **WifiHacker** (https://github.com/TheLogeek/WiFi-Hacker)
 
    A wifi dictionary attack program that works by attempting commonly used passwords on a particular WiFi said in an attempt to get the password.
-
-- **TendoPain** (https://github.com/TheLogeek/TendoPain)
-
-   A simple and basic cli tool for performing ddos attacks and also for getting ip address of a website.
 
 - **Keylogger** (https://github.com/TheLogeek/Keylogger)
 
