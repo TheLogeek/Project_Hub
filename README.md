@@ -30,9 +30,9 @@
 # 🖥️Software Development
 
 - **LogeekMind**
-  (https://github.com/TheLogeek/LogeekMind)
+  (https://github.com/TheLogeek/LogeekMind_2.0)
  
-   An AI academic assistant for students and lifelong learners.
+   An AI powered academic assistant for students and lifelong learners.
 
 - **Chat Room**
  (https://github.com/TheLogeek/Chat-Room)
