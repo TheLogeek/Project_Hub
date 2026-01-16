@@ -4,7 +4,12 @@
 
 # 🧠Data Science & Machine Learning
 
-- **Auto Data Cleaner**
+- **Sales Forecaster**
+(https://github.com/TheLogeek/Sales-Forecaster)
+
+   Sales Forecaster Pro is an AI-powered sales analytics and forecasting application built with Streamlit and classical time-series modeling. It allows businesses and analysts to upload historical sales data and instantly generate short-term revenue forecasts, visual projections, and actionable insights.
+
+- **Auto Data Cleaner & Analytics (A Business Automation Tool)**
 (https://github.com/TheLogeek/Business-Automation-Tool)
 
   A professional-grade Python application designed to help businesses, educators, and vendors transform messy data into clean, analysis-ready datasets and actionable insights in seconds.
@@ -58,7 +63,7 @@
 
 - **WifiHacker** (https://github.com/TheLogeek/WiFi-Hacker)
 
-   A wifi dictionary attack program that works by attempting commonly used passwords on a particular WiFi said in an attempt to get the password.
+   A wifi dictionary attack program that works by attempting commonly used passwords on a particular WiFi ssid in an attempt to get the password.
 
 - **Keylogger** (https://github.com/TheLogeek/Keylogger)
 
