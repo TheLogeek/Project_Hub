@@ -2,7 +2,12 @@
 
 **This repository indicates my personal projects categorized by field with links to their respective repositories.**
 
-# 🧠Data Science & Machine Learning 
+# 🧠Data Science & Machine Learning
+
+- **Auto Data Cleaner**
+(https://github.com/TheLogeek/Business-Automation-Tool)
+
+  A professional-grade Python application designed to help businesses, educators, and vendors transform messy data into clean, analysis-ready datasets and actionable insights in seconds.
 
 - **AI Basketball Matches Predictions**
 (https://github.com/TheLogeek/AI-Bet-Analyzer)
