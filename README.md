@@ -66,11 +66,11 @@
    
   -Check if a phone number is valid or not.
 
-- **WifiHacker** (https://github.com/TheLogeek/WiFi-Hacker)
+- **WifiHacker (Security Testing tool)** (https://github.com/TheLogeek/WiFi-Hacker)
 
    A wifi dictionary attack program that works by attempting commonly used passwords on a particular WiFi ssid in an attempt to get the password.
 
-- **Keylogger** (https://github.com/TheLogeek/Keylogger)
+- **Keylogger (Security Testing tool)** (https://github.com/TheLogeek/Keylogger)
 
    Basic keylogger program.
 
