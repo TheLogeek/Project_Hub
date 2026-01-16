@@ -39,6 +39,12 @@
 
 # 🖥️Software Development
 
+- **Smart Expense Tracker bot**
+
+(https://t.me/SmartExpenseTrackerMLBot)
+
+  Smart Expense Tracker bot is a telegram bot designed to help users track their expenses and manage cashflow.
+
 - **LogeekMind**
   (https://github.com/TheLogeek/LogeekMind_2.0)
  
