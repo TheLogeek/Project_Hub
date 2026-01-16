@@ -7,7 +7,7 @@
 - **Sales Forecaster**
 (https://github.com/TheLogeek/Sales-Forecaster)
 
-   Sales Forecaster Pro is an AI-powered sales analytics and forecasting application built with Streamlit and classical time-series modeling. It allows businesses and analysts to upload historical sales data and instantly generate short-term revenue forecasts, visual projections, and actionable insights.
+   Sales Forecaster is an AI-powered sales analytics and forecasting application built with Streamlit and classical time-series modeling. It allows businesses and analysts to upload historical sales data and instantly generate short-term revenue forecasts, visual projections, and actionable insights.
 
 - **Auto Data Cleaner & Analytics (A Business Automation Tool)**
 (https://github.com/TheLogeek/Business-Automation-Tool)
