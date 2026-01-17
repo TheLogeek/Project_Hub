@@ -4,6 +4,11 @@
 
 # 🧠Data Science & Machine Learning
 
+- **Nexus Tech Dashboard**
+(https://github.com/TheLogeek/Nexus-tech-dashboard)
+
+  An interactive Business Intelligence (BI) tool built with Python and Streamlit to analyze global sales performance and simulate business growth scenarios.
+
 - **Sales Forecaster**
 (https://github.com/TheLogeek/Sales-Forecaster)
 
