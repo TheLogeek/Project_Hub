@@ -4,6 +4,11 @@
 
 # 🧠Data Science & Machine Learning
 
+- **Customer Retention Engine**
+(https://github.com/TheLogeek/Customer-Retention-Engine)
+
+  A high-performance, AI-driven CRM dashboard built to stop revenue leakage. This engine uses Recency-Frequency-Monetary (RFM) modeling and behavioral "Intent Signals" to predict customer churn before it happens. Featuring a futuristic glassmorphism UI, real-time risk scoring, and a CRM-style Win-Back Action Center.
+
 - **Nexus Tech Dashboard**
 (https://github.com/TheLogeek/Nexus-tech-dashboard)
 
