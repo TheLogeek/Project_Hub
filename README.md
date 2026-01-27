@@ -1,5 +1,8 @@
 # Welcome to my Project Hub
 
+[My Portfolio](https://solomonadenuga.lovable.app)
+
+
 **This repository indicates my personal projects categorized by field with links to their respective repositories.**
 
 # 🧠Data Science & Machine Learning
