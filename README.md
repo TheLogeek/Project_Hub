@@ -58,7 +58,7 @@
    Smart Expense Tracker bot is a telegram bot designed to help users track their expenses and manage cashflow.
 
 - **LogeekMind**
-  (https://github.com/TheLogeek/LogeekMind_2.0)
+  (https://github.com/TheLogeek/LogeekMind)
  
    An AI powered academic assistant for students and lifelong learners.
 
