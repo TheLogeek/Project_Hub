@@ -1,4 +1,4 @@
-# 🗂️ Solomon Adenuga (TheLogeek) — Master Project Hub
+# 🗂️ Solomon Adenuga — Master Project Hub
 
 [💼 Personal Portfolio Website](https://solomonadenuga.lovable.app) | [📬 Business Email](mailto:solomonadenuga8@gmail.com)
 
