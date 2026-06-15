@@ -14,7 +14,7 @@ Welcome to my central production hub. This repository acts as a curated index of
 | **FORZA AI Engine** | Multi-league football analytics and match simulation sandbox running stacked ensemble models. | *Local Deployment (Multi-League API Data Ingress)* | Python, XGBoost, LightGBM, Streamlit, Elo Framework |
 | **Nexus Tech Dashboard** | Custom CRM analytics engine running real-time ML risk scoring to mitigate customer churn. | [🚀 Interact Live](https://nexus-tech-dashboard.streamlit.app) | Python, Scikit-Learn, Streamlit, Pandas |
 | **Sales Forecaster AI** | Enterprise revenue analytics engine utilizing Holt-Winters time-series modeling for cashflow planning. | [🚀 Interact Live](https://sales-forecaster-ml.streamlit.app) | Python, Statsmodels, Streamlit, Plotly |
-| **LogeekMind** | Deep modular ecosystem featuring 10 AI subsystems for academic automation and multimodal problem-solving. | *Local Deployment* | Python, FastAPI, Next.js, Multimodal LLM APIs |
+| **LogeekMind** | Deep modular ecosystem featuring 10 AI subsystems for academic automation and multimodal problem-solving. | [Use App](https://logeekmind.xyz) | Python, FastAPI, Next.js, Multimodal LLM APIs |
 
 ---
 
