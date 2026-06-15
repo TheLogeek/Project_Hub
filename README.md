@@ -62,6 +62,7 @@ Welcome to my central production hub. This repository acts as a curated index of
     *   *Source:* [Repository Link](https://github.com/TheLogeek/LogeekMind)
     *   *Core:* A sprawling academic automation application structured with a high-availability FastAPI backend routing to a responsive Next.js user interface, driving deep tool orchestration.
 *   **Scrylo** — `Local-First B2B Growth Automation`
+    *   *Source:* [Repository Link](https://github.com/TheLogeek/Scrylo-downloads)
     *   *Core:* A privacy-first lead generation and outbound engine built with a secure, client-side data architecture to eliminate external cloud server hosting constraints.
 *   **Smart Expense Tracker Bot** — `Production Telegram Microservice`
     *   *Access:* [t.me/SmartExpenseTrackerMLBot](https://t.me/SmartExpenseTrackerMLBot)
