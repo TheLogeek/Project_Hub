@@ -11,6 +11,7 @@ Welcome to my central production hub. This repository acts as a curated index of
 
 | Production Asset | Primary Business Core / Objective | System Status | Stack |
 | :--- | :--- | :--- | :--- |
+| **RAG Proposal Synthesizer** | Hybrid client/serverless engine matching portfolio data to job descriptions via edge embeddings. | [🚀 Interact Live](https://rag-powered-proposal-synthesizer.vercel.app/) | Python, FastAPI, React, WASM, NumPy, Groq |
 | **FORZA AI Engine** | Multi-league football analytics and match simulation sandbox running stacked ensemble models. | *Local Deployment (Multi-League API Data Ingress)* | Python, XGBoost, LightGBM, Streamlit, Elo Framework |
 | **Nexus Tech Dashboard** | Custom CRM analytics engine running real-time ML risk scoring to mitigate customer churn. | [🚀 Interact Live](https://nexus-tech-dashboard.streamlit.app) | Python, Scikit-Learn, Streamlit, Pandas |
 | **Sales Forecaster AI** | Enterprise revenue analytics engine utilizing Holt-Winters time-series modeling for cashflow planning. | [🚀 Interact Live](https://sales-forecaster-ml.streamlit.app) | Python, Statsmodels, Streamlit, Plotly |
@@ -58,12 +59,15 @@ Welcome to my central production hub. This repository acts as a curated index of
 ## 🖥️ Specialized Software & Automation Engineering
 
 ### 🤖 Intelligent Agents & Systems Orchestration
+*   **RAG-Powered Proposal Synthesizer** — `Optimized Orchestration Pipeline`
+    *   *Source:* [Repository Link](https://github.com/TheLogeek/rag-proposal-synthesizer) | [🚀 View Live App](https://rag-powered-proposal-synthesizer.vercel.app/)
+    *   *Core:* A hybrid edge/serverless RAG pipeline executing text generation from job descriptions. Offloads vector embeddings entirely to the client's browser utilizing WebAssembly (WASM), processing vector similarity searches on a committed JSON index via raw NumPy in a lightweight, zero-dependency Vercel Python serverless handler. Streams responses via SSE.
 *   **LogeekMind** — `AI Core Infrastructure`
-    *   *Source:* [Repository Link](https://github.com/TheLogeek/LogeekMind)
+    *   *Source:* [Repository Link](https://github.com/TheLogeek/LogeekMind) | [Use App](https://logeekmind.xyz)
     *   *Core:* A sprawling academic automation application structured with a high-availability FastAPI backend routing to a responsive Next.js user interface, driving deep tool orchestration.
 *   **Scrylo** — `Local-First B2B Growth Automation`
     *   *Source:* [Repository Link](https://github.com/TheLogeek/Scrylo-downloads)
-    *   *Core:* A privacy-first lead generation and outbound engine built with a secure, client-side data architecture to eliminate external cloud server hosting constraints.
+    *   *Core:* A privacy-first lead generation and outbound engine built with a secure, client-side data architecture to eliminate external cloud server hosting constraints[span_0](start_span)[span_0](end_span).
 *   **Smart Expense Tracker Bot** — `Production Telegram Microservice`
     *   *Access:* [t.me/SmartExpenseTrackerMLBot](https://t.me/SmartExpenseTrackerMLBot)
     *   *Core:* An automated live transactional endpoint for instantaneous mobile budget processing, currency mapping, and individual financial tracking.
