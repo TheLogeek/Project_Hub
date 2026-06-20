@@ -64,6 +64,11 @@ Welcome to my central production hub. This repository acts as a curated index of
 *   **RAG-Powered Proposal Synthesizer** — `Optimized Orchestration Pipeline`
     *   *Source:* [Repository Link](https://github.com/TheLogeek/rag-proposal-synthesizer) | [🚀 View Live App](https://rag-powered-proposal-synthesizer.vercel.app/)
     *   *Core:* A hybrid edge/serverless RAG pipeline executing text generation from job descriptions. Offloads vector embeddings entirely to the client's browser utilizing WebAssembly (WASM), processing vector similarity searches on a committed JSON index via raw NumPy in a lightweight, zero-dependency Vercel Python serverless handler. Streams responses via SSE.
+
+* **Edge Proctoring & Attention Tracking Engine** — `Edge ML Infrastructure`
+    * *Source:* [Repository Link](https://github.com/TheLogeek/edge-proctoring-system) | [🚀 View Live Demo](https://edge-proctoring-system.vercel.app)
+    * *Core:* Low-latency proctoring framework processing 478 3D facial landmarks on-device. Bridges a high-velocity JavaScript camera stream with an in-browser Python (Pyodide) matrix mathematics layer. Implements a production-grade ML optimization pipeline that exports trained `scikit-learn` Logistic Regression weights into a lightweight JSON schema, allowing pure-Python tensor inference to run completely decoupled from heavy server dependencies or container constraints. Employs a 24-frame temporal buffer state machine to negate telemetry false positives.
+
 *   **LogeekMind** — `AI Core Infrastructure`
     *   *Source:* [Repository Link](https://github.com/TheLogeek/LogeekMind) | [Use App](https://logeekmind.xyz)
     *   *Core:* A sprawling academic automation application structured with a high-availability FastAPI backend routing to a responsive Next.js user interface, driving deep tool orchestration.
