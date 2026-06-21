@@ -16,7 +16,7 @@ Welcome to my central production hub. This repository acts as a curated index of
 | **Nexus Tech Dashboard** | Custom CRM analytics engine running real-time ML risk scoring to mitigate customer churn. | [🚀 Interact Live](https://nexus-tech-dashboard.streamlit.app) | Python, Scikit-Learn, Streamlit, Pandas |
 | **Sales Forecaster AI** | Enterprise revenue analytics engine utilizing Holt-Winters time-series modeling for cashflow planning. | [🚀 Interact Live](https://sales-forecaster-ml.streamlit.app) | Python, Statsmodels, Streamlit, Plotly |
 | **Edge Proctoring Engine** | Real-time browser computer vision & ML attention classifier running entirely on client WebAssembly. | [🚀 Interact Live](https://edge-proctoring-system.vercel.app) | Python, Pyodide (WASM), React, MediaPipe |
-| **DriftShield AI** | Local-first production ML monitoring engine running validated statistical drift pipelines with multiple-testing correction. | [📦 Repository](https://github.com/TheLogeek/driftshield-ai) | Python, FastAPI, SQLite, Streamlit, SciPy[span_6](start_span)[span_6](end_span) |
+| **DriftShield AI** | Local-first production ML monitoring engine running validated statistical drift pipelines with multiple-testing correction. | [📦 Repository](https://github.com/TheLogeek/driftshield-ai) | Python, FastAPI, SQLite, Streamlit, SciPy |
 
 
 | **LogeekMind** | Deep modular ecosystem featuring 10 AI subsystems for academic automation and multimodal problem-solving. | [Use App](https://logeekmind.xyz) | Python, FastAPI, Next.js, Multimodal LLM APIs |
