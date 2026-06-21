@@ -67,6 +67,11 @@ Welcome to my central production hub. This repository acts as a curated index of
     *   *Source:* [Repository Link](https://github.com/TheLogeek/rag-proposal-synthesizer) | [🚀 View Live App](https://rag-powered-proposal-synthesizer.vercel.app/)
     *   *Core:* A hybrid edge/serverless RAG pipeline executing text generation from job descriptions. Offloads vector embeddings entirely to the client's browser utilizing WebAssembly (WASM), processing vector similarity searches on a committed JSON index via raw NumPy in a lightweight, zero-dependency Vercel Python serverless handler. Streams responses via SSE.
 
+* **DriftShield AI** — `MLOps Infrastructure & Observability`
+    * *Source:* [Repository Link](https://github.com/TheLogeek/driftshield-ai)
+    * *Core:* Lightweight model health tracker processing real-time telemetry asynchronously via FastAPI into an atomic SQLite database ledger. Designed to eliminate false-alarm fatigue by passing rolling p-values through a custom Benjamini-Hochberg significance filter. Features an offline **Validation Harness** that continuously stress-tests the statistical engine against synthetic covariate and concept drift matrices to publish verifiable true/false positive detection thresholds[span_9](start_span)[span_9](end_span). Includes a heuristic, calibration-gated LLM-as-judge evaluation engine for LLM format and hallucination tracking.
+
+
 * **Edge Proctoring & Attention Tracking Engine** — `Edge ML Infrastructure`
     * *Source:* [Repository Link](https://github.com/TheLogeek/edge-proctoring-system) | [🚀 View Live Demo](https://edge-proctoring-system.vercel.app)
     * *Core:* Low-latency proctoring framework processing 478 3D facial landmarks on-device. Bridges a high-velocity JavaScript camera stream with an in-browser Python (Pyodide) matrix mathematics layer. Implements a production-grade ML optimization pipeline that exports trained `scikit-learn` Logistic Regression weights into a lightweight JSON schema, allowing pure-Python tensor inference to run completely decoupled from heavy server dependencies or container constraints. Employs a 24-frame temporal buffer state machine to negate telemetry false positives.
