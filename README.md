@@ -64,7 +64,7 @@ Welcome to my central production hub. This repository acts as a curated index of
 
 ### 🤖 Intelligent Agents & Systems Orchestration
 *   **RAG-Powered Proposal Synthesizer** — `Optimized Orchestration Pipeline`
-    *   *Source:* [Repository Link](https://github.com/TheLogeek/rag-proposal-synthesizer) | [🚀 View Live App](https://rag-powered-proposal-synthesizer.vercel.app/)
+    *   *Source:* [Repository Link](https://github.com/TheLogeek/RAG-powered-Proposal-Synthesizer) | [🚀 View Live App](https://rag-powered-proposal-synthesizer.vercel.app/)
     *   *Core:* A hybrid edge/serverless RAG pipeline executing text generation from job descriptions. Offloads vector embeddings entirely to the client's browser utilizing WebAssembly (WASM), processing vector similarity searches on a committed JSON index via raw NumPy in a lightweight, zero-dependency Vercel Python serverless handler. Streams responses via SSE.
 
 * **DriftShield AI** — `MLOps Infrastructure & Observability`
