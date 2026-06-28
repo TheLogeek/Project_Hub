@@ -102,9 +102,3 @@ Welcome to my central production hub. This repository acts as a curated index of
 *   **PhoneX Intelligence Tool**
     *   *Source:* [Repository Link](https://github.com/TheLogeek/PhoneX)
     *   *Core:* Telecommunication metadata system built to handle routing logic, check carrier validation states, and resolve international geolocation markers.
-*   **QuadPro Mathematical Processor**
-    *   *Source:* [Repository Link](https://github.com/TheLogeek/QuadPro)
-    *   *Core:* Numerical analysis tool calculating logical architectures of quadratic functions.
-*   **GasGuru Chemistry Engine**
-    *   *Source:* [Repository Link](https://github.com/TheLogeek/GasGuru)
-    *   *Core:* Foundational execution parser resolving multi-variable ideal and real gas law equations.
